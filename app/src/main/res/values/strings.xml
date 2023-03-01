@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+    <string name="hello">Hello</string>
+    <string name="there">There</string>
+    <string name="changename">Change Name</string>
+    <string name="enteryourname">Enter Your Name</string>
+    <string name="submit">Submit</string>
+</resources>
