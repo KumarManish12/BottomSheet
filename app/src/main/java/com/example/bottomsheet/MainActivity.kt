@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
                     binding.tvthere.setText(dialogLayoutBinding.etentername.text.toString())
                 }
             }
+            dialogLayoutBinding.etentername.setText(binding.tvthere.text.toString())
             bottomSheetDialog.show()
         }
     }
